@@ -17,6 +17,7 @@
     "tslint-config-airbnb": "^5.11.2",
     "typescript": "^3.7.2"
   },
+  "name": "create-typescript-node-project",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
