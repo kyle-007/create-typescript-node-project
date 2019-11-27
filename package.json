@@ -5,6 +5,9 @@
     "test": "jest",
     "lint": "tslint -c tslint.json 'src/**/*.ts*'"
   },
+  "bin": {
+    "create-typescript-node-project": "./dist/index.js"
+  },
   "devDependencies": {
     "@types/jest": "^24.0.23",
     "@types/node": "^10.0.3",
